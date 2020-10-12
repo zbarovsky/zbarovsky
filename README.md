@@ -1,7 +1,7 @@
 ![Zack Barovsky: Bootstrap, CSS, Express, Git, HTML, JavaScript, MongoDB, NodeJs, Python, React, TypeScript, VS Code, Postgesql](https://i.imgur.com/Y0h9IPV.png)
 
 ## Hello Everyone!
-My name is Zack Barovsky and I am a software engineer based in the Seattle area. After years of social work, I decided to follow my passion for coding and collaborating with others by using code to bring action to their goals. When I'm not working, I'm often found either playing music or videogames 🎮.
+My name is Zack Barovsky and I am a software engineer based in the Seattle area. After years of social work, I decided to follow my passion for coding and collaborating with others by using code to bring action to their goals. When I'm not working, I'm often found either playing music or videogames.
 
 ### Where to find me
 * If you want to know what I'm up to more frequently, you can follow me on instagram and twitter @zbarovsky.
