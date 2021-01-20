@@ -11,11 +11,6 @@ My name is Zack Barovsky(He/Him) and I am a software engineer, and aspiring game
 
 <br>
 
-## GitHub Stats
-![Zacks github stats](https://github-readme-stats.vercel.app/api?username=zbarovsky&show_icons=true&theme=dark)
-<br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zbarovsky&layout=compact&theme=dark)](https://github.com/zbarovsky/github-readme-stats)
-
 ## Skills
 ![JavaScript](https://img.shields.io/badge/Code-JavaScript-048939)
 ![TypeScript](https://img.shields.io/badge/Code-TypeScript-048939)
@@ -33,6 +28,15 @@ My name is Zack Barovsky(He/Him) and I am a software engineer, and aspiring game
 ![SQLAlchemy](https://img.shields.io/badge/Code-SQLAlchemy-048939)
 ![Swift](https://img.shields.io/badge/Code-Swift-048939)
 ![Unity](https://img.shields.io/badge/Code-Unity-048939)
+
+<br>
+
+## GitHub Stats
+![Zacks github stats](https://github-readme-stats.vercel.app/api?username=zbarovsky&show_icons=true&theme=dark)
+<br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zbarovsky&layout=compact&theme=dark)](https://github.com/zbarovsky/github-readme-stats)
+
+
 
 
 <!--
