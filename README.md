@@ -1,5 +1,6 @@
 [![Zack's Github banner](./assets/header.png)](https://zackbarovsky.dev/)
 <!-- [![Visits Badge](https://badges.pufler.dev/visits/zbarovsky/zbarovsky)](https://zackbarovsky.dev/) -->
+[![Portfolio Badge](https://img.shields.io/badge/Portfolio-Profile-1A5E8C)](https://zackbarovsky.dev/)
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-0e76a8)](https://www.linkedin.com/in/zbarovsky/)
 [![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-1DA1F2)](https://twitter.com/zbarovsky)
 
